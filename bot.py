@@ -13,7 +13,7 @@ async def on_ready():
     print(f'Giriş yapıldı:  {bot.user.name}')
 
 @bot.command()
-async def start(ctx):
+async def merhaba(ctx):
     await ctx.send("Merhaba! Ben bir sohbet yöneticisi botuyum!")
 
 @bot.command()
