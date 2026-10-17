@@ -1,5 +1,5 @@
 # BOTUN AMACI 
-## ban bot 
+## YON BOT
 bu bot kullanıcıları banlamak ve eğlenemk için tasarlanmıştır 
 botu kullanabilmek için "//ban @username" kullanılmalıdır
 botun çalışdığını denemek için "//merhaba" veya "//about" yazabilirsiniz
